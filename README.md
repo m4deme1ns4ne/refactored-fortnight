@@ -1,5 +1,9 @@
 # Как развернуть MYSQL в PHPMYADMIN с помощью DOCKER
 
+Если у вас уже есть контейнер с базой данных MYSQL, то перейдите по [ссылке](https://github.com/m4deme1ns4ne/refactored-fortnight#:~:text=Далее%20нужно%20создать%20файл%20docker-compose.yml%20в%20проекте%20с%20содержанием:).
+
+---
+
 Для развёртывания phpMyAdmin с MySQL в Docker, вам нужно создать docker-compose.yml файл, который будет содержать конфигурацию для обоих контейнеров.
 
 ---
@@ -78,7 +82,7 @@ docker stop <id или name контейнера>
 
 ---
 
-Нужно создать файл docker-compose.yml в проекте с содержанием:
+Далее нужно создать файл docker-compose.yml в проекте с содержанием:
 
 ```docker
 version: '3'
