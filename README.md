@@ -3,7 +3,9 @@
 Для развёртывания phpMyAdmin с MySQL в Docker, вам нужно создать docker-compose.yml файл, который будет содержать конфигурацию для обоих контейнеров.
 
 ---
+
 Если у вас уже есть контейнер с базой данных MYSQL, то перейдите по [ссылке](https://github.com/m4deme1ns4ne/refactored-fortnight#:~:text=Далее%20нужно%20создать%20файл%20docker-compose.yml%20в%20проекте%20с%20содержанием:).
+
 ---
 
 Для начала вам нужно иметь уже контейнер с развёрнутой базой данных mysql.
@@ -141,7 +143,7 @@ services:
    docker-compose up -d
    ```
 
-2. Откройте браузер и перейдите по адресу [http://localhost:8080](http://localhost:8080) или [http://your_server_ip:8080](http://your_server_ip:8080) для доступа к phpMyAdmin. Введите учётные данные для подключения к MySQL.
+2. Откройте браузер и перейдите по [http://localhost:8080](http://localhost:8080) или [http://your_server_ip:8080](http://your_server_ip:8080) для доступа к phpMyAdmin. Введите учётные данные для подключения к MySQL.
 
 
 ---
