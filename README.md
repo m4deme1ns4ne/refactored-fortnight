@@ -4,7 +4,7 @@
 
 ---
 
-Если у вас уже есть контейнер с базой данных MYSQL, то перейдите по [ссылке](https://github.com/m4deme1ns4ne/refactored-fortnight#:~:text=Далее%20нужно%20создать%20файл%20docker-compose.yml%20в%20проекте%20с%20содержанием:).
+Если у вас уже есть контейнер с базой данных MYSQL, то перейдите по [ссылке](https://github.com/m4deme1ns4ne/refactored-fortnight#:~:text=%D0%B4%D0%B0%D0%BB%D0%B5%D0%B5%20%D0%BD%D1%83%D0%B6%D0%BD%D0%BE%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C%20%D1%84%D0%B0%D0%B8%D0%BB%20docker-compose.yml%20%D0%B2%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5%20%D1%81%20%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%3A).
 
 ---
 
