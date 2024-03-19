@@ -26,10 +26,6 @@ docker run --name mysql-test \
 
 ---
 
-Подключаетесь к контейнеру с помощью MySQLWorkbench. Указываем правильный порт, который определили выше.
-
----
-
 #### Для просмотра работающих контейнеров:
 
 ```docker
@@ -78,10 +74,6 @@ docker rm -f <id или name контейнера>
 
 ```docker
 docker stop <id или name контейнера>
-```
-
-```docker
-docker rm <id или name контейнера>
 ```
 
 ---
@@ -180,10 +172,6 @@ If the container does not start, i.e. will not be output when running the docker
 
 ---
 
-Connect to the container using MySQLWorkbench. We indicate the correct port that was defined above.
-
----
-
 #### To view working containers:
 
 ``` docker
@@ -232,10 +220,6 @@ or
 
 ``` docker
 docker stop <id or container name>
-```
-
-``` docker
-docker rm <id or container name>
 ```
 
 ---
